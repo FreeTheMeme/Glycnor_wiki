@@ -4,6 +4,8 @@ tags:
   - utility
   - hub
 ---
+The Glycnor (GLY-C-NOR) is the planet in the globular system. It has one moon known as [[Grumpy Moon]].
+
 ![[Glycnor.png]]
 > Flag of Glycnor
 # General

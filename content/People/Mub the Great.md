@@ -24,3 +24,6 @@ it wasn't until he was young adult when he discovered [[Glob]] One day he discov
 
 Mub took one of the smaller crystals home and put it on his window sill. A few days later he realized The vines outside his window crew significantly faster than usual.
 
+# inception of the summoners
+
+# The Great War of Sock
