@@ -4,7 +4,6 @@ tags:
   - utility
   - hub
 ---
-
 [[Sock]]
 [[Cranor]]
 [[Clouds]]
@@ -12,3 +11,11 @@ tags:
 [[Farting]]
 [[map_of_Glycnor.png]]
 [[Glycnor School of Magic]]
+# Regions
+```dataview
+table from #region
+```
+# places 
+```dataview
+table from #place 
+```

@@ -6,4 +6,3 @@ tags:
 
 # Glycnor School of Magic
 ![[Gly sch mag.jpg]]
-> The interior
