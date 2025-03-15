@@ -5,7 +5,6 @@ tags:
   - event
 ---
 
-| **Start Date**       | 35                                                              |
-| -------------------- | --------------------------------------------------------------- |
-| **End Date**         | 43                                                              |
-| **Parties Involved** | [[The Summoners]] vs [[Arnold the Annoying]](Great Sock Empire) |
+| **Start Date** | **End Date** | **Parties Involved**                                            |
+| -------------- | ------------ | --------------------------------------------------------------- |
+| 35             | 43           | [[The Summoners]] vs [[Arnold the Annoying]](Great Sock Empire) |
