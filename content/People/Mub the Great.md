@@ -22,8 +22,10 @@ it wasn't until he was young adult when he discovered [[Glob]] One day he discov
 
 # Discovery of Glob properties
 
-Mub took one of the smaller crystals home and put it on his window sill. A few days later he realized The vines outside his window crew significantly faster than usual.
+Mub took one of the smaller crystals home and put it on his window sill. A few days later he realized The vines outside his window crew significantly faster than usual. Once he realized this He put a few of them out into the fields with the crops. He and his family realized by putting those Glob crystals there. That crop yields would go up. With increased crop yields gave Mub The time to study these crystals further. He experimented with splitting it apart and a green flash of lightning came out and knocked everything off the table. That's when he realized there was great power in glob. 
 
-# inception of the summoners
+# Inception of the summoners
+Once Mub realized the properties of glob, he started in teaching others how to use these green crystals to make life easier. He started putting the green crystals on top of sticks to make magical staffs of sorts. With these magical staffs, you can move things around. Without even touching them, like a telepathy of sorts. This is when Mub started [[The Summoners]]. 
 
 # The Great War of Sock
+In mub's day [[Sock]] was ruled by a monarchy. Their ruler was named [[Arnold the Annoying]] He got this name because he was a particularly authoritarian ruler. Wanting to have full control of Glob. witch caused the [[The Great War of Sock]]  

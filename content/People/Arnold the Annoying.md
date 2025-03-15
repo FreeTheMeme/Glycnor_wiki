@@ -1,6 +1,6 @@
 ---
 title: Arnold the Annoying
-draft: true
+draft: false
 tags:
   - character
   - government-official
