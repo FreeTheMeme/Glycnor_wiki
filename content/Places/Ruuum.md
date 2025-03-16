@@ -1,7 +1,7 @@
 ---
 tags:
   - region
-title: <% tp.file.title %>
+title: Ruuum
 draft: false
 ---
 
