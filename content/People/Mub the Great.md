@@ -6,6 +6,8 @@ age: "120"
 born: "0"
 job: 
 died: "120"
+draft: false
+title: Mub the Great
 ---
 
 #TODO create picture of Mub

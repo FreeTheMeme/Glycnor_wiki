@@ -6,5 +6,5 @@ tags:
 ---
 ```dataview
 Table file.size
-Sort file.size
+where draft = true
 ```

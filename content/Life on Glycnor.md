@@ -3,6 +3,8 @@ tags:
   - lifeforms
   - plants
   - animals
+title: Life on Glycnor
+draft: false
 ---
 
 # composition

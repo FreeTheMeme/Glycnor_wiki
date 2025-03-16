@@ -3,6 +3,8 @@ tags:
   - magic
   - object
   - resource
+title: Glob
+draft: false
 ---
 
 

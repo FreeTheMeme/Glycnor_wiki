@@ -3,7 +3,10 @@ tags:
   - Religion
   - magic
   - culture
+title: Religion
+draft: false
 ---
+
 
  When you commit a crime in real life but you get away by dying 
 
