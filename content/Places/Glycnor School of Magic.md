@@ -4,6 +4,7 @@ tags:
   - groups
 title: Glycnor School of Magic
 draft: false
+date: 2025-03-15
 ---
 
 # Glycnor School of Magic
