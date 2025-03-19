@@ -31,4 +31,4 @@ Mub took one of the smaller crystals home and put it on his window sill. A few d
 Once Mub realized the properties of glob, he started in teaching others how to use these green crystals to make life easier. He started putting the green crystals on top of sticks to make magical staffs of sorts. With these magical staffs, you can move things around. Without even touching them, like a telepathy of sorts. This is when Mub started [[The Summoners]]. 
 
 # The Great War of Sock
-In mub's day [[Sock]] was ruled by a monarchy. Their ruler was named [[Arnold the Annoying]] He got this name because he was a particularly authoritarian ruler. Wanting to have full control of Glob. witch caused the [[The Great War of Sock]]  
+In mub's day [[Sock]] was ruled by a monarchy. Their ruler was named [[Arnold the Annoying]] He got this name because he was a particularly authoritarian ruler who wanted to have full control of Glob. witch caused the [[The Great War of Sock]]. Mub My played a great role. in the victory Up the war. 

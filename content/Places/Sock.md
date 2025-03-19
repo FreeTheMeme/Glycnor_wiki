@@ -12,4 +12,3 @@ A Continent on Glycnor consisting of [[Left Sock]] and [[Right Sock]]
 
 
 ### the war of sock
-75,000 [[gly]] ago [[The Great War of Sock]]

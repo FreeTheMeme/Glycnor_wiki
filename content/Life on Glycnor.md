@@ -4,7 +4,8 @@ tags:
   - plants
   - animals
 title: Life on Glycnor
-draft: false
+draft: true
+date: 2026-03-18
 ---
 
 # composition
