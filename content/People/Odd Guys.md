@@ -4,6 +4,7 @@ tags:
   - magic
 title: Odd Guys
 draft: false
+date: 2025-03-15 19:51
 ---
 ![[Odd Guy2.jpg]]
 

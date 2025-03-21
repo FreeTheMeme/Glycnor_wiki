@@ -1,8 +1,9 @@
 ---
-title: Home
+title: index
 draft: false
 tags:
   - home
+date: 2025-03-14 04:05
 ---
 
 Welcome to the [[Glycnor]] wiki! :)

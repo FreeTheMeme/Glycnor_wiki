@@ -8,6 +8,7 @@ job:
 died: "120"
 draft: false
 title: Mub the Great
+date: 2025-03-18 08:21
 ---
 
 #TODO create picture of Mub

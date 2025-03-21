@@ -5,7 +5,7 @@ tags:
   - animals
 title: Life on Glycnor
 draft: true
-date: 2026-03-18
+date: 2025-03-18 08:21
 ---
 
 # composition

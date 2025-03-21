@@ -3,6 +3,9 @@ tags:
   - region
   - utility
   - hub
+title: regions and places
+draft: true
+date: 2025-03-17 14:14
 ---
 [[Sock]]
 [[Cranor]]

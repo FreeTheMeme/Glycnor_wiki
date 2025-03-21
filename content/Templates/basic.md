@@ -2,5 +2,5 @@
 title: <% tp.file.title %>
 draft: true
 tags:
-date: {{date}}
+date: <% tp.file.creation_date() %>
 ---

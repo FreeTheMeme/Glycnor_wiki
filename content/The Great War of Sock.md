@@ -3,6 +3,7 @@ title: The Great War of Sock
 draft: false
 tags:
   - event
+date: 2025-03-19 20:46
 ---
 
 | **Start Date** | **End Date** | **Parties Involved**                                            |

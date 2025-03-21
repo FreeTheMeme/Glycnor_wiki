@@ -4,6 +4,7 @@ tags:
   - groups
 title: Government and civilization
 draft: true
+date: 2025-03-15 19:51
 ---
 # Government 
 ## Past leaders and government officials.
