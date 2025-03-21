@@ -6,6 +6,7 @@ title: Odd Guys
 draft: false
 ---
 ![[Odd Guy2.jpg]]
+
 Odd Guys are the main sentient species on Glycnor. They are a glucose based life form and are very stretchy and can mold into almost anything. They come from a large tree deep within the kingdom of Glycnor, this tree is the main source of life forms. 
 
 ## birth and formation
