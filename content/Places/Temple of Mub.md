@@ -1,6 +1,7 @@
 ---
 tags:
   - place
+  - TODO
 title: Temple of Mub
 draft: false
 ---

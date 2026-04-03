@@ -2,10 +2,10 @@
 tags:
   - magic
   - utility
-title: Magic
+title: Magic System
 draft: true
 ---
-
+The magic on [[Glycnor]] is harnessed by channeling the power of [[Glob]]
 ### see aslo
 [[Glob]]
 [[Mub the Great]]

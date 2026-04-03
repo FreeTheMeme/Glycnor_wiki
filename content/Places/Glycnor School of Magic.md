@@ -2,13 +2,14 @@
 tags:
   - place
   - groups
+  - TODO
 title: Glycnor School of Magic
 draft: false
 date: 2025-03-15
 ---
 
 # Glycnor School of Magic
-Is a school founded by [[The Summoners]] after There triumph in [[The Great War of Sock]] by
+Is a school founded by [[The Summoners]] in the [[Gly]] 45 after There triumph in [[The Great War of Sock]] 
 
 
 

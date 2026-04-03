@@ -2,8 +2,9 @@
 tags:
   - character
   - culture
+  - Religion
 title: Ultratin
 draft: true
 date: 2025-03-15 19:51
 ---
-god of the tins
+ is the main [[Religion|religious]] entity of [[Glycnor]]

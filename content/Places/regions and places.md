@@ -14,11 +14,3 @@ date: 2025-03-15 19:51
 [[Farting]]
 [[map_of_Glycnor.png]]
 [[Glycnor School of Magic]]
-# Regions
-```dataview
-table from #region
-```
-# places 
-```dataview
-table from #place 
-```

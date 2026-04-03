@@ -22,7 +22,7 @@ Mub was born in [[Left Sock]] around 100,000 gly ago and lived for about 120 [[g
 
 # glob
 ## Discovery of Glob
-it wasn't until he was young adult when he discovered [[Glob]] One day he discovered a cave as he was venturing around. As he ventured farther and farther into the cave It got darker and darker. But then, around a bend, he saw a green glow. The tunnel had opened up into a great big cavern filled with these ginormous green crystals. Mub would name these crystals [[Glob]]. 
+it wasn't until he was young adult when he discovered [[Glob]] One day he discovered a [[cave of Mub|cave]] as he was venturing around. As he ventured farther and farther into the cave It got darker and darker. But then, around a bend, he saw a green glow. The tunnel had opened up into a great big cavern filled with these ginormous green crystals. Mub would name these crystals [[Glob]]. 
 
 ## Discovery of Glob properties
 
