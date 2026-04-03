@@ -10,6 +10,7 @@ date: 2025-03-15 19:51
 ## Past leaders and government officials.
 [[Arnold the Annoying]]
 [[Royal Army]]
+[[Great Sock Empire]]
 
 
 # Civilization 
